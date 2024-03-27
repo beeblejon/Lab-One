@@ -1,2 +1,1 @@
 # Lab One
-# Jonathan Levinte
