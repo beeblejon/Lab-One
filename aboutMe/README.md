@@ -2,7 +2,7 @@
 
 Hello, this is my personal page!
 
-![Me and coco](WIN_20221125_14_35_05_Pro.jpg)
+![Me and coco](coco.jpg)
 
 ## **About Me**
 
